@@ -1,0 +1,48 @@
+#RDP{
+    text-indent: 50px;
+    margin-right:1420px;
+    }
+#RDPH{
+    font-size:30px;
+    position:absolute;
+    top: 250px;
+    left: 125px;
+    background-color:red;
+}
+#RA{
+    background-color:red;
+    }
+#EA{
+    background-color:#33cc33;
+    }
+#SA{
+    background-image:url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg");
+    }
+body{
+    background-color:#0033cc;
+    }
+h1{
+    font-size: 100px;}
+h2{
+    font-size: 100px;
+    }
+
+#akaHR{
+    font-size: 25px; 
+    background-color: red;
+    position: absolute;
+    top: 210px;
+    left: 50px;
+    }
+#akaPR{
+    background-color: red;
+    position: absolute;
+    top: 226px;
+    left: 114px;
+    }
+#PR{ 
+    position: absolute;
+    top: 280px;
+    left: 500px;
+    width: 500px;
+    height: 650px;}
